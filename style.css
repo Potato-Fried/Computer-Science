@@ -1,6 +1,17 @@
 body {
-    background-color: #F7CBF7
+    background-color: #ebf3f5
 }
+p {
+    text-align: center;
+}   
+ 
 h1 {
-          color: black;
+          color: rgb(240, 188, 188);
+          text-align: center;
           }
+img {
+  clip-path: circle(50%);
+width: 500px; height: 500px;
+img-align: center;
+}
+
